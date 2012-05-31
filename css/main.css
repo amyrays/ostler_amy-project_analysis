@@ -1,0 +1,74 @@
+body{
+	font-size: 100%;
+	line-height: 1.2;
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 0; 
+	background-color: #C0C0C0;
+}
+
+ul{
+	list-style-type: none;
+	margin-left: -4%;
+	font-weight: bold;
+}
+
+h1, h2, h3{
+	font-family: 'Marko One', serif;
+	font-size: 2em;
+	text-align: center;
+}
+
+li, p{
+	font-family: 'Port Lligat Sans', sans-serif;
+	font-size: 1.25em;
+}
+
+p{
+	max-width: 95%;
+	padding-left: 2.6041667%;
+}
+
+/* Sections---------------------------------------------------------*/
+
+section{
+	background-color: #181818;
+	border: 2px outset #333;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px #333;
+	color: #E6E6FF;
+	margin-bottom: 10px;
+}
+
+/* Table------------------------------------------------------------*/
+
+table{
+	max-width: 95%;
+	margin-right:2.3958333%;
+	border-collapse: collapse;
+	border: 2px solid #000;
+	margin-left: auto;
+	margin-bottom: 10px;
+}
+
+th{
+	text-align: left;
+	background: #000;
+	padding: 0.3em;
+	font-size: 1.25em;
+	color:#E6E6FF;
+	text-align: center;
+}
+
+td{
+	border: 1px solid #000;
+	padding: 0.3em;
+	font-size: 1.25em;
+	text-align: center;
+}
+
+.odd{
+	background-color: #999;
+}
+
+
